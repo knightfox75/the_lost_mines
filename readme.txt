@@ -1,0 +1,17 @@
+– La historia del proyecto.
+The Lost Mines fue el primer juego «completo» que realicé. Todo y tener algunos pecados de juventud, dado que lo programé siendo aún adolescente, cuando vi la posibilidad de editarlo en formato físico me animé a rescatarlo del baúl de los recuerdos.
+La primera versión del juego la distribuí a varios amigos en formato cinta, lo cual fue muy útil para su verificación, tanto para equilibrar la dificultad como para descubrir posibles fallos.
+Teniendo varias copias a buen recaudo en cinta, en el año 1996 se me abrió una nueva posibilidad para conservar mi primer juego. Gracias a una utilidad de MS-DOS (de la cual no recuerdo ya el nombre), fue posible a través de mi tarjeta de sonido Sound Blaster, pasar el juego de formato cinta a archivo de PC, con lo que gracias a los emuladores de la época, me fue posible crear una imagen de disquete en formato MSX con el juego.
+Y en mi PC estuvo guardada esta imagen, hasta que por casualidad encontré una web en Francia donde venden cartuchos vírgenes para realizarte tus propias ediciones. Pedí uno y el resultado fue el previsto, mi primer juego por fin en formato físico. La cosa es que al publicarlo en Facebook, muchos de mis colegas empezaron a pedirme una copia. Además, teniendo a 3 semanas la RU de Barcelona, decidí realizar una primera edición de 10 unidades, una edición simple con solo el cartucho. Viendo el relativo éxito de la misma, se me ofreció la posibilidad de realizar otra edición «con caja», la cual es la que actualmente se distribuye.
+
+– El juego.
+Blop es un joven robot minero en su primera misión. Enviado a un planeta en el extremo del sistema solar, Blop deberá explorar un antiguo complejo minero abandonado, construido por una civilización ya extinta. Una exploración superficial, rebela a Blop que el complejo dispone de una cantidad ingente de recursos naturales que pueden ser extraídos, haciendo del lugar un punto ideal para la minería. Pero una sucesión de ruidos extraños hacen pensar a Blop que no esta solo en las minas…
+El complejo esta compuesto por 11 minas diferentes. Blop deberá recolectar la mayor cantidad posible de recursos naturales, en forma de gemas azules, antes de alcanzar la salida de la mina. La puerta de salida permanecerá cerrada hasta que se recolecten todos los recursos.
+Cada mina esta protegida por un guardián, el cual es capaz de recolectar recursos para protegerlos. Blop deberá evitar encontrarse con el guardián a toda costa, de lo contrario, quedara reducido a un montón de chatarra.
+El tiempo también juega en contra de Blop, el cual dispone de una cantidad limitada de energía para explorar cada nivel. Al entrar en la mina, un cronometro empezara la cuenta atrás. Al llegar a cero, Blop se quedara sin energía, quedando atrapado en la mina para siempre.
+Algunas gemas emitirán una potente onda de energía al ser recolectadas, la cual afectara a la iluminación del complejo, encendiendo o apagando las luces. Esto puede ser útil a Blop, dado que algunas de las paredes de las minas contienen un tipo especial de roca, el cual es mas frágil y brillan en la oscuridad, pudiendo detectar con facilidad nuevas rutas o pasadizos secretos. Por contra, Blop puede perderse con facilidad en la oscuridad, así que tocara ir con cuidado con las luces apagadas.
+
+
+The Lost Mines: Edición física en cartucho de 16kb para MSX/MSX2
+Disponible a partir de la segunda mitad de Junio del 2015 en ReproFactory.
+http://www.ebsoft.fr/shop/es/home/50-the-lost-mines.html
